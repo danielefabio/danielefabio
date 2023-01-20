@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielefabio
 - 👀 I’m interested in Web & Mobile Dev
-- 🌱 I’m currently learning React & Javascript
+- 🌱 I’m currently working with Laravel and React.js
 - 💞️ I’m looking to collaborate on ...[ IDK at this moment ]
 - 📫 I’m @daniele__fabio (IG), @itsdanielefabio (FB)
 
